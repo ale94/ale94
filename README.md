@@ -1,2 +1,2 @@
 ### ¡Hola! Soy Alejandro👋
-Soy un programador web full stack jr, desarrollo aplicaciones web con tecnologia de front-end y back-end como html, css, bootstrap, typescript, angular, Java, spring boot, spring jpa, spring security, sql, mysql.
+Soy un programador Web Full Stack Jr, desarrollo aplicaciones web con tecnologia de Front-end y Back-end como HTML, CSS, Bootstrap, Typescript, Angular, Java, Spring Boot, Spring JPA, Spring Security, SQL, MySQL.
