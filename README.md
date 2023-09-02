@@ -1,10 +1,11 @@
 ### Acerca de mí
 
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador backend en Java que está listo para sumergirse en el mundo de la programación. Aunque no tengo experiencia profesional, mi entusiasmo por aprender y mi dedicación son inquebrantables.
+¡Hola! Soy Alejandro, un apasionado desarrollador backend en Java que está listo para sumergirse en el mundo de la programación. Aunque no tengo experiencia profesional, mi entusiasmo por aprender y mi dedicación son inquebrantables.
 
 ### Habilidades
 
-- Lenguajes de programación: Java.
+- Lenguajes de programación: Java, JavaScript.
+- Tecnologias: HTML, CSS, BootStrap, React.
 - Bases de datos: MySQL, PostgreSQL.
 - Conocimientos básicos de diseño de API REST.
 - Familiarizado con herramientas de control de versiones como Git.
