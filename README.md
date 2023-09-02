@@ -9,10 +9,6 @@
 - Conocimientos básicos de diseño de API REST.
 - Familiarizado con herramientas de control de versiones como Git.
 
-### Proyectos personales
-
-- **Sistema de gestión de tareas** - Desarrollé un pequeño proyecto personal en Java para gestionar tareas y recordatorios. Fue una excelente oportunidad para aplicar mis habilidades de programación.
-
 ### Metas futuras
 
 Mi objetivo es convertirme en un experto en desarrollo backend en Java y contribuir a proyectos emocionantes en el futuro. Estoy ansioso por aprender y colaborar con otros desarrolladores.
