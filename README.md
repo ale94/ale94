@@ -5,7 +5,7 @@
 ### Habilidades
 
 - Lenguajes de programación: Java, JavaScript.
-- Tecnologias: HTML, CSS, BootStrap, React.
+- Tecnologias: HTML, CSS, Bootstrap, React.
 - Bases de datos: MySQL, PostgreSQL.
 - Conocimientos básicos de diseño de API REST.
 - Familiarizado con herramientas de control de versiones como Git.
