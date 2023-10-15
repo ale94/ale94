@@ -1,9 +1,13 @@
 <h1 align="center">Hola 👋, soy Alejandro Rua</h1>
 <h3 align="center">Un apasionado desarrollador backend en Java.</h3>
 
-- 💬 Ask me about **Java, Spring Boot, SQL, API REST**
+🔭 I’m currently working on No Country
 
-- 📫 How to reach me **alejandrorua111@gmail.com**
+🌱 I’m currently learning Docker and Microservice
+
+❓ Ask me about anything related to **Java, Spring Boot, SQL, API REST**
+
+📫 How to reach me **alejandrorua111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
