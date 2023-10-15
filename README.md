@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alejandro Rua</h1>
-<h3 align="center">Un apasionado desarrollador backend en Java que está listo para sumergirse en el mundo de la programación.</h3>
+<h3 align="center">Un apasionado desarrollador backend en Java.</h3>
 
 - 💬 Ask me about **Java, Spring Boot, SQL, API REST**
 
