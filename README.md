@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Alejandro Rua</h1>
-<h3 align="center">Un apasionado Programador web de argentina</h3>
+<h1 align="center">Hi 👋, I'm Alejandro Rua</h1>
+<h3 align="center">A passionate web developer from argentina</h3>
 
 🔭 I’m currently working on No Country
 
