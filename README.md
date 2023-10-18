@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, soy Alejandro Rua</h1>
-<h3 align="center">Un apasionado Programador.</h3>
-
-Soy Backend Developer Java que trabaja en proyectos personales y utiliza plataformas de simulaciones para adquirir experiencia práctica. Mi pasión por la programación y el deseo de aprender son mi motor. Estoy emocionado por el futuro y las oportunidades que me esperan en este camino.
+<h3 align="center">Un apasionado Programador web de argentina</h3>
 
 🔭 I’m currently working on No Country
 
