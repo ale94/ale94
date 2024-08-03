@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Alejandro Rua</h1>
 <h3 align="center">A passionate backend Java developer.</h3>
 
-- 🌱 I’m currently learning **Docker, Microsoft Azure, AWS**
+- 🌱 I’m currently learning **Docker, MS Azure, AWS**
 
 - 💬 Ask me about **Java, OOP, REST API, Spring**
 
