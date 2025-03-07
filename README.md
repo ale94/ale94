@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, Microservice, Microsoft Azure, AWS**
 
-- 💬 Ask me about **Java, RESTful API, Spring Boot, JPA, Web, Security, SQL, etc.**
+- 💬 Ask me about **Java, Backend Developer, RESTful API, Spring Boot, JPA, Web, Security, SQL, etc.**
 
 - 📫 How to reach me **alejandrorua111@gmail.com**
 
