@@ -17,5 +17,3 @@
 
 <h3>My GitHub Stats</h3>
 <a href="http://www.github.com/ale94"><img src="https://github-readme-stats.vercel.app/api?username=ale94&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="ale94's GitHub stats" /></a>
-
-<a href="http://www.github.com/ale94"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ale94&stroke=64748b&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
