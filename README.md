@@ -16,4 +16,12 @@
 </p>
 
 <h3>My GitHub Stats</h3>
-<a href="http://www.github.com/ale94"><img src="https://github-readme-stats.vercel.app/api?username=ale94&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f2f2f2&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="ale94's GitHub stats" /></a>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ale94&show_icons=true&theme=dark&locale=en&layout=compact" alt="ale94" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale94&show_icons=true&theme=dark&locale=en" alt="ale94" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ale94&theme=dark" alt="ale94" /></p>
+</div>
+
+
+
+
