@@ -17,8 +17,8 @@
 
 <h3>My GitHub Stats</h3>
 <div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ale94&show_icons=true&theme=dark&locale=en&layout=compact" alt="ale94" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale94&show_icons=true&theme=dark&locale=en" alt="ale94" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ale94&show_icons=true&locale=en&layout=compact" alt="ale94" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ale94&show_icons=true&locale=en" alt="ale94" /></p>
 </div>
 
 
